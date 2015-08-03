@@ -1,0 +1,6 @@
+setup.py
+qin/qin.egg-info/PKG-INFO
+qin/qin.egg-info/SOURCES.txt
+qin/qin.egg-info/dependency_links.txt
+qin/qin.egg-info/pbr.json
+qin/qin.egg-info/top_level.txt
