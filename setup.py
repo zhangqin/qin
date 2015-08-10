@@ -10,6 +10,6 @@ setup(
     author="b0lu",
     url="http://b0lu.xyz",
     license="LGPL",
-    requires= ['smtplib'],
+    install_requires = ['pipetools'],
     packages= find_packages(),
 )
